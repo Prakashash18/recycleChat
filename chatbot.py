@@ -11,7 +11,7 @@ from langchain.prompts.prompt import PromptTemplate
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 
 
-API_KEY = 'xxx'
+API_KEY = st.secrets["openai_secret_key"]
 
 # Define URLs for recycling information
 urls = [
