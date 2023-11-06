@@ -4,3 +4,4 @@ langchain
 beautifulsoup4
 openai
 chromadb
+pysqlite3-binary
