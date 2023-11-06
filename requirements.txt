@@ -3,3 +3,4 @@ streamlit-chat
 langchain
 beautifulsoup4
 openai
+chromadb
